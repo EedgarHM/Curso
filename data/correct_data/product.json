@@ -1,0 +1,14 @@
+ {
+  "product": [
+    {
+      "_id": "RDBECOLIPD00002",
+      "abbreviatedName": "RdlB",
+      "isoelectricPoint": 13.12,
+      "gene_id": "RDBECOLIGN04312",
+      "name": "small regulatory antisense RNA RdlB",
+      "organism_id": "RDBECOLIOR00001",
+      "sequence": "GUCUGGUUUCAAGAUUAGCCCCCGUUCUGUUGUCAGGUUUUACCUCUCAACGUGCGGGGGUUUUCU",
+      "synonyms": ["PD0001", "OPPD12"]
+    }
+  ]
+ }
